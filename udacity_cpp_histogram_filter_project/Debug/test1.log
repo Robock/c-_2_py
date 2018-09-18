@@ -1,0 +1,32 @@
+﻿  tests.cpp
+c:\users\hank2\desktop\selfie_car\p2cpp\udacity_cpp_histogram_filter_project\helpers.cpp(39): warning C4018: '<': signed/unsigned mismatch
+c:\users\hank2\desktop\selfie_car\p2cpp\udacity_cpp_histogram_filter_project\helpers.cpp(40): warning C4018: '<': signed/unsigned mismatch
+c:\users\hank2\desktop\selfie_car\p2cpp\udacity_cpp_histogram_filter_project\helpers.cpp(46): warning C4018: '<': signed/unsigned mismatch
+c:\users\hank2\desktop\selfie_car\p2cpp\udacity_cpp_histogram_filter_project\helpers.cpp(47): warning C4018: '<': signed/unsigned mismatch
+c:\users\hank2\desktop\selfie_car\p2cpp\udacity_cpp_histogram_filter_project\helpers.cpp(107): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\hank2\desktop\selfie_car\p2cpp\udacity_cpp_histogram_filter_project\helpers.cpp(108): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\hank2\desktop\selfie_car\p2cpp\udacity_cpp_histogram_filter_project\helpers.cpp(109): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\hank2\desktop\selfie_car\p2cpp\udacity_cpp_histogram_filter_project\helpers.cpp(158): warning C4018: '<': signed/unsigned mismatch
+c:\users\hank2\desktop\selfie_car\p2cpp\udacity_cpp_histogram_filter_project\helpers.cpp(159): warning C4018: '<': signed/unsigned mismatch
+c:\users\hank2\desktop\selfie_car\p2cpp\udacity_cpp_histogram_filter_project\helpers.cpp(216): warning C4101: 'color': unreferenced local variable
+c:\users\hank2\desktop\selfie_car\p2cpp\udacity_cpp_histogram_filter_project\debugging_helpers.cpp(22): warning C4018: '<': signed/unsigned mismatch
+c:\users\hank2\desktop\selfie_car\p2cpp\udacity_cpp_histogram_filter_project\debugging_helpers.cpp(25): warning C4018: '<': signed/unsigned mismatch
+c:\users\hank2\desktop\selfie_car\p2cpp\udacity_cpp_histogram_filter_project\debugging_helpers.cpp(41): warning C4018: '<': signed/unsigned mismatch
+c:\users\hank2\desktop\selfie_car\p2cpp\udacity_cpp_histogram_filter_project\debugging_helpers.cpp(44): warning C4018: '<': signed/unsigned mismatch
+c:\users\hank2\desktop\selfie_car\p2cpp\udacity_cpp_histogram_filter_project\localizer.cpp(49): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\hank2\desktop\selfie_car\p2cpp\udacity_cpp_histogram_filter_project\localizer.cpp(110): warning C4018: '<': signed/unsigned mismatch
+c:\users\hank2\desktop\selfie_car\p2cpp\udacity_cpp_histogram_filter_project\localizer.cpp(112): warning C4018: '<': signed/unsigned mismatch
+c:\users\hank2\desktop\selfie_car\p2cpp\udacity_cpp_histogram_filter_project\tests.cpp(45): warning C4305: 'initializing': truncation from 'double' to 'float'
+c:\users\hank2\desktop\selfie_car\p2cpp\udacity_cpp_histogram_filter_project\tests.cpp(46): warning C4305: 'initializing': truncation from 'double' to 'float'
+c:\users\hank2\desktop\selfie_car\p2cpp\udacity_cpp_histogram_filter_project\tests.cpp(47): warning C4305: 'initializing': truncation from 'double' to 'float'
+c:\users\hank2\desktop\selfie_car\p2cpp\udacity_cpp_histogram_filter_project\tests.cpp(61): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\hank2\desktop\selfie_car\p2cpp\udacity_cpp_histogram_filter_project\tests.cpp(120): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\hank2\desktop\selfie_car\p2cpp\udacity_cpp_histogram_filter_project\tests.cpp(124): warning C4018: '<': signed/unsigned mismatch
+c:\users\hank2\desktop\selfie_car\p2cpp\udacity_cpp_histogram_filter_project\tests.cpp(126): warning C4018: '<': signed/unsigned mismatch
+c:\users\hank2\desktop\selfie_car\p2cpp\udacity_cpp_histogram_filter_project\tests.cpp(188): warning C4018: '<': signed/unsigned mismatch
+c:\users\hank2\desktop\selfie_car\p2cpp\udacity_cpp_histogram_filter_project\tests.cpp(190): warning C4018: '<': signed/unsigned mismatch
+c:\users\hank2\desktop\selfie_car\p2cpp\udacity_cpp_histogram_filter_project\tests.cpp(205): warning C4018: '<': signed/unsigned mismatch
+c:\users\hank2\desktop\selfie_car\p2cpp\udacity_cpp_histogram_filter_project\tests.cpp(207): warning C4018: '<': signed/unsigned mismatch
+c:\users\hank2\desktop\selfie_car\p2cpp\udacity_cpp_histogram_filter_project\tests.cpp(228): warning C4305: '=': truncation from 'double' to 'float'
+c:\users\hank2\desktop\selfie_car\p2cpp\udacity_cpp_histogram_filter_project\tests.cpp(229): warning C4305: '=': truncation from 'double' to 'float'
+  test1.vcxproj -> C:\Users\Hank2\Desktop\Selfie_car\p2cpp\udacity_cpp_histogram_filter_project\Debug\test1.exe
